@@ -4,3 +4,6 @@ node_modules/
 # Ignore .js and .lock files
 *.js
 *.lock
+
+# Ignore the assignment document
+*.docx
